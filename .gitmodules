@@ -1,0 +1,3 @@
+[submodule "Apps/SEIAfgs1App/External/HM"]
+	path = Apps/SEIAfgs1App/External/HM
+	url = https://vcgit.hhi.fraunhofer.de/jvet/HM.git
